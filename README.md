@@ -1,2 +1,6 @@
-# about-me
-个人业务档案：About Me 与写作风格规范（公开）
+# Profile
+
+个人业务档案仓库。
+
+- [about-me.md](./about-me.md)：个人与业务基本信息
+- [writing-style.md](./writing-style.md)：写作与输出风格规范
