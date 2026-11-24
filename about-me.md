@@ -1,5 +1,7 @@
 # About Me
 
+> 对外可展示的公司简介：[中文版 company-profile.md](company-profile.md) ｜ [English 版](company-profile-en.md)
+
 ## 基本信息
 
 - 所在地：中国福建泉州晋江
